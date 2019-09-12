@@ -1,0 +1,176 @@
+----------------------------------------------------------------
+Wed Sep 11 16:50:28 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:01:25 CDT 2019:
+Shutting down instance a816c00e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:01:27 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance bc9ec0ce-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:02:10 CDT 2019:
+Shutting down instance bc9ec0ce-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:02:17 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f526c18e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:04:40 CDT 2019:
+Shutting down instance f526c18e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:04:42 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 51aec24e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:47:07 CDT 2019:
+Shutting down instance 51aec24e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:47:09 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d236c30e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:50:31 CDT 2019:
+Shutting down instance d236c30e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:50:33 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 76bec3ce-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:50:33 CDT 2019:
+Shutting down instance 76bec3ce-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:51:16 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3f46c48e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:53:25 CDT 2019:
+Shutting down instance 3f46c48e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:53:28 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2bcec54e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 17:56:04 CDT 2019:
+Shutting down instance 2bcec54e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 17:56:07 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a2664612-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 18:27:35 CDT 2019:
+Shutting down instance a2664612-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 18:27:37 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0c34c6de-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 18:28:02 CDT 2019:
+Shutting down instance 0c34c6de-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Sep 11 18:28:04 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 67bcc79e-016d-224e-6875-000006c905e0 
+on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/jonatan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/home/jonatan/Develop/VSCodeWorkspace/studentrosteri
+os.name=Linux
+os.arch=amd64
+os.version=5.2.11-200.fc30.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 11 22:41:55 CDT 2019:
+Shutting down instance 67bcc79e-016d-224e-6875-000006c905e0 on database directory memory:/home/jonatan/Develop/VSCodeWorkspace/studentrosteri/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 

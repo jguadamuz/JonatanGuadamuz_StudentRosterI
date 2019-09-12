@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../static/css/style.css" th:href="@{/css/style.css}">
+    <title>Students</title>
+</head>
+
+<body>
+    <h1>All Students</h1>
+</body>
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>State</th>
+    </thead>
+    <tbody>
+        <tr data-th-each="student : ${students}">
+            <td data-th-text="${student.firstName}">Nombre 1</td>
+            <td data-th-text="${student.age}">Age 1</td>
+            <td data-th-text="${student.lastName}">Lastname 1</td>
+            <td data-th-text="${student.lastName}">City 1</td>
+            <td data-th-text="${student.lastName}">State 1</td>
+        </tr>
+    </tbody>
+</table>
+
+</html>

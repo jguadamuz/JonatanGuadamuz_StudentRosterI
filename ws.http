@@ -1,0 +1,35 @@
+
+http://localhost:8080/ws/students
+
+
+GOOD!!!!
+curl --request POST \
+  --url http://localhost:8080/ws/students/add \
+  --data "name=Levi&lastName=Guadamuz&age=0"
+
+
+
+BAD!!!!!
+POST http://localhost:8080/ws/students/add HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Otro",
+  "lastName": "Guadamuz",
+  "age": 3
+}
+
+BAD!!!!!
+POST http://localhost:8080/ws/students/add HTTP/1.1
+
+{"name": "Otro","lastName": "Guadamuz","age": "3"}
+
+
+BAD!!!!
+curl --request POST \
+  --url http://localhost:8080/ws/students/add \
+  --header "Content-Type: application/json" \
+  --data '{name: "Otro",lastName: "Guadamuz",age: "3"}'
+
+
+
